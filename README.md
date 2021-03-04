@@ -13,5 +13,4 @@ initialize max to the minimum value of the integer ( incase it is an int array)
 
 int max = INT_MIN;
 
-be sure to include
-#include<climits>
+be sure to include <climits>
